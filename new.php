@@ -6,11 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>this is my first page</h1>
-    <h2>this is test branch</h2>
-
-
- <h1>this is my first page</h1>
-    <h2>this is test branch</h2>
+    
 </body>
 </html>
